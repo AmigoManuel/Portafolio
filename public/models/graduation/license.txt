@@ -1,0 +1,11 @@
+Model Information:
+* title:	Graduation
+* source:	https://sketchfab.com/3d-models/graduation-2e3aae15417b4631a081b1eab7018472
+* author:	madhushan (https://sketchfab.com/madhushan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Graduation" (https://sketchfab.com/3d-models/graduation-2e3aae15417b4631a081b1eab7018472) by madhushan (https://sketchfab.com/madhushan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
